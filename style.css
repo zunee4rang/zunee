@@ -1,0 +1,37 @@
+html, body {
+  font-family: "Ubuntu Mono", monospace;
+  margin: 0px;
+  height: 100%;
+  width: 100%; }
+
+h1 {
+    color:black;
+    transition: color 0.5s ease-in-out;
+}
+
+fnt {
+  font-size: medium;
+}
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-size: 20px;
+}
+
+.hidden{
+  display: none;
+}
+
+.view {
+  display: block;
+}
+
+div{ word-wrap: break-word; word-break: normal; } 
+
+button {
+    font-size: 20px;
+}
+  
